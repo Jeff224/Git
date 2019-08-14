@@ -1,2 +1,3 @@
 hello git!
 add the 1th test line.
+add the 2th test line.
